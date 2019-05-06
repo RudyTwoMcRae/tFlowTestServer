@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tFlowAPI", "tFlowTest\tFlowAPI_Test\tFlowAPI_Test\tFlowAPI.csproj", "{71A077B1-B9CA-489D-B9C5-3379DA7AAEFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tFlow", "tFlowTest\tFlow\tFlow\tFlow.csproj", "{45D5341D-C4A3-4B7A-B5B8-2894E2635AD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71A077B1-B9CA-489D-B9C5-3379DA7AAEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A077B1-B9CA-489D-B9C5-3379DA7AAEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A077B1-B9CA-489D-B9C5-3379DA7AAEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A077B1-B9CA-489D-B9C5-3379DA7AAEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45D5341D-C4A3-4B7A-B5B8-2894E2635AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D5341D-C4A3-4B7A-B5B8-2894E2635AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D5341D-C4A3-4B7A-B5B8-2894E2635AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D5341D-C4A3-4B7A-B5B8-2894E2635AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A417B5F-2429-435C-BF19-908F73EEDB46}
+	EndGlobalSection
+EndGlobal
